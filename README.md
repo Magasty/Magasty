@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/@irxfatal" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a> <br> <br>
-<a href="https://discordapp.com/users/692387119892529255" target="blank"><img src="https://img.shields.io/badge/Discord-IrxFatal%231234-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/></a>
+<a href="https://discordapp.com/users/692387119892529255" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
