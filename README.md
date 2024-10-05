@@ -24,6 +24,6 @@ Feel free to check out my projects, contributions, and repositories to see what 
 
 ### Connect with Me
 
-- GitHub: [magasty](https://github.com/magasty)
+- GitHub: [IrxFatal](https://github.com/IrxFatal)
 
 Thanks for visiting my profile! 😊
