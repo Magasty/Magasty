@@ -8,9 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-</p>
+<a href="https://t.me/your-telegram" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
+<a href="https://discordapp.com/users/your-discord-id" target="blank"><img src="https://img.shields.io/badge/Discord-IrxFatal%231234-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
