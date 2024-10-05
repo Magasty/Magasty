@@ -1,6 +1,8 @@
 <h1 align="center">Welcome, I'm IrxFatal</h1>
 <h3 align="center">A passionate developer constantly learning and building new things</h3>
 
+# Feel free to use some of my stuff
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irxfatal&label=Profile%20views&color=0e75b6&style=flat" alt="irxfatal" /> </p>
 
 
