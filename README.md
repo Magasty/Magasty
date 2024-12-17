@@ -34,11 +34,7 @@
 </p>
 
 <p>
-  <img 
-    align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=irxfatal&show_icons=true&locale=en&layout=compact&theme=dark" 
-    alt="irxfatal's most popular languages"
-  />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
